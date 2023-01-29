@@ -1,1 +1,2 @@
 # Raster-images-with-gdal
+This repository contains how can we calculate NDVI using multispectral satellite images.Normalized Difference Vegetation Index  gives you the information about the health of any vegetation. So this repo will helpfull for you to calculate and doing analysis of raster data.
